@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<bookname><![CDATA[Whispers of the Banyan Tree]]></bookname>
+		<authorname><![CDATA[Meera Joshi]]></authorname>
+		<price><![CDATA[399]]></price>
+		<publishdate><![CDATA[2024-08-12]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Code of the Ancients]]></bookname>
+		<authorname><![CDATA[Rahul Sharma]]></authorname>
+		<price><![CDATA[599]]></price>
+		<publishdate><![CDATA[2023-11-01]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Moonlight on the Ganges]]></bookname>
+		<authorname><![CDATA[Anjali Patel]]></authorname>
+		<price><![CDATA[349]]></price>
+		<publishdate><![CDATA[2025-01-19]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[The Forgotten Shrine]]></bookname>
+		<authorname><![CDATA[Vikram Rao]]></authorname>
+		<price><![CDATA[450]]></price>
+		<publishdate><![CDATA[2022-07-30]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Beyond the Sacred Hills]]></bookname>
+		<authorname><![CDATA[Kavita Nair]]></authorname>
+		<price><![CDATA[299]]></price>
+		<publishdate><![CDATA[2023-03-05]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Threads of Karma]]></bookname>
+		<authorname><![CDATA[Arjun Malhotra]]></authorname>
+		<price><![CDATA[550]]></price>
+		<publishdate><![CDATA[2024-12-21]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Letters to a Monsoon Heart]]></bookname>
+		<authorname><![CDATA[Sneha Desai]]></authorname>
+		<price><![CDATA[379]]></price>
+		<publishdate><![CDATA[2025-04-10]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[The Last Manuscript]]></bookname>
+		<authorname><![CDATA[Devansh Kapoor]]></authorname>
+		<price><![CDATA[620]]></price>
+		<publishdate><![CDATA[2022-10-15]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Echoes from Harappa]]></bookname>
+		<authorname><![CDATA[Isha Mehta]]></authorname>
+		<price><![CDATA[480]]></price>
+		<publishdate><![CDATA[2023-06-25]]></publishdate>
+	</node>
+	<node>
+		<bookname><![CDATA[Temple of the Crimson Sky]]></bookname>
+		<authorname><![CDATA[Rudra Iyer]]></authorname>
+		<price><![CDATA[530]]></price>
+		<publishdate><![CDATA[2025-02-02]]></publishdate>
+	</node>
+</data>
